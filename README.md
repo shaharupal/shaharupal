@@ -31,3 +31,21 @@ Experienced in statistical modeling, data storytelling, and ETL processes.
 -  Programming Language : SQL, Python
 -  Visulazation : Power BI , Tableau , Matplotlib , Seaborn , Data Studio
 -  Tools : MS Excel, Power Point, Jupiter Notebook, SAP ERP
+
+
+  ## Projects
+
+   [ Project 1 : E-Commerce Customer Behavior (ECBA) ] (https://github.com/shaharupal/portfolio/blob/main/E-Commerce%20Behavior%20Analysis%20(ECBAP)%20(1).pdf)
+
+   - Data was taken from Public source
+   - Analyzed Key areas of focus :
+       1. Evaluating ad performance (CPC and ad spend efficiency)
+       2. Analyzing the impact of discounts on customer purchasing behavior
+       3. Segmenting customer data to identify key patterns and trends
+   - The analysis focused on understanding customer behavior to inform better marketing decisions
+
+   [ Project 2  : ChemicalCorp Sales Analysis ] (https://github.com/shaharupal/portfolio/blob/main/ChemicalCorp%20Sales%20Analysis.pdf)
+
+   - Analyzed ChemCorp's declining market share due to competition and emerging technologies.
+   - Developed strategies to improve customer retention and drive future growth.
+       * Presented the derived insights and corresponding recommendations to stakeholder
